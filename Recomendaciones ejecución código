@@ -1,0 +1,17 @@
+Para lograr la ejecución del código es necesario seguir los siguientes pasos:
+
+1. Descargar el archivo .py
+
+2. Tener instalado python en el equipo. De lo contrario, no será posible ejecutar el archivo.
+
+3. Desde CMD, ejecutar el siguiente comando:
+  pip install streamlit
+  #este comando instala la herramienta streamlit con la que fue desarrollada el proyecto.
+
+4. Desde el CMD, acceder a la carpeta donde se descargó el archivo
+  Ejemplo: cd Descargas
+
+5. Ejecutar el siguiente comando:
+    streamlit run [nombre del archivo.py]
+    #Con este comando se ejecuta el programa y debe abrir en el navegador con el localhost 8501
+
